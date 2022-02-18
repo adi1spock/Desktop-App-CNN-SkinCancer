@@ -2,7 +2,7 @@
 * [Intro](#intro)
 * [Images](#images)
 ## Intro
-This program contains the python CNN trained model for skin cancer detection with its GUI.CNN model is trained on bunch of images containing skin cancer and normal wart is capable of differentiating between them. GUI part enables users to just simply type the name of image in the image folder and it can easily detect if the image is of skin cancer or wart using backend algorithms making it easy for normal people to use.Makeathon Thapar 2020 best first year team.
+This program contains the python CNN trained model for skin cancer detection with its GUI.CNN model is trained on bunch of images containing skin cancer and normal wart is capable of differentiating between them. GUI part enables users to just simply type the name of image in the image folder and it can easily detect if the image is of skin cancer or wart using backend algorithms making it easy for normal people to use.Makeathon Thapar2020 best first year team.
 ## Images
 ![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-000.png)
 ![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-002.jpg)
