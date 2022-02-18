@@ -6,5 +6,5 @@ This program contains the python CNN trained model for skin cancer detection wit
 ## Images
 ![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-000.png)
 ![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-001.png)
-![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-002.png)
-![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-003.png)
+![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-002.jpg)
+![alt](https://github.com/adi1spock/Desktop-App-CNN-SkinCancer/blob/master/image-003.jpg)
